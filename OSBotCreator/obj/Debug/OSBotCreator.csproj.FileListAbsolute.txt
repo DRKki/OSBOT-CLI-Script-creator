@@ -1,0 +1,10 @@
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\bin\Debug\OSBotCreator.exe
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\bin\Debug\OSBotCreator.pdb
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\obj\Debug\OSBotCreator.csprojResolveAssemblyReference.cache
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\obj\Debug\OSBotCreator.Form1.resources
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\obj\Debug\OSBotCreator.Properties.Resources.resources
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\obj\Debug\OSBotCreator.csproj.GenerateResource.Cache
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\obj\Debug\OSBotCreator.exe
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\obj\Debug\OSBotCreator.pdb
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\bin\Debug\FSManager.dll
+d:\users\rs\documents\visual studio 2015\Projects\OSBotCreator\OSBotCreator\bin\Debug\FSManager.pdb
